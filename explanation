@@ -1,0 +1,15 @@
+You enter a word when the program asks for it.
+
+The program opens the dictionary file (a normal text file).
+
+It reads the file one line at a time.
+
+Each line in the file has a word followed by a colon and its meaning.
+Example:
+linux: an open-source operating system kernel
+
+The program checks if the line starts with the same word you typed.
+
+If it matches, it takes the meaning written after the colon and shows it to you.
+
+If no matching word is found in any line, it shows “Word not foun
